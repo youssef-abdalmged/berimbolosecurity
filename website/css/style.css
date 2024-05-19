@@ -1,0 +1,17 @@
+header{
+    min-height: 100vh;
+    background: url(../images/istockphoto-860911844-640x640.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.header-text{
+    text-align: center;
+    position: absolute;
+    top: 50% ;left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+.Services{
+    text-size-adjust: 100;
+}
